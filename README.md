@@ -20,3 +20,4 @@ RTM based Slack bot
 3. `heroku ps:scale worker=1`
 4. `heroku ps` to check that bot is up and running.
 
+May the Force be with you!

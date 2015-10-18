@@ -1,5 +1,5 @@
 # Luke
-RTM based Slack bot
+RTM API based Slack bot
 
 ## Installation
 
@@ -21,4 +21,4 @@ RTM based Slack bot
 4. `heroku ps` to check that bot is up and running.
 
 
-## May the Force be with you!
+# May the Force be with you!
